@@ -27,6 +27,6 @@ AR Gardening with Unity AR Foundation
 
 ## Installation
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fgoogle-drive-logo%2F&psig=AOvVaw1FxB8XPDJNnmjaBXMMSadp&ust=1715469024778000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODf-6WahIYDFQAAAAAdAAAAABAR"
+[<img src="./docs/drive_logo.png"
     alt="Get it on Drive"
-    height="80">](https://github.com/vfsfitvnm/ViMusic/releases/latest)
+    height="80">](https://drive.google.com/file/d/1GIS80RqhpccKifLg3499Jt2SV2khNfPh/view?usp=drive_link)
