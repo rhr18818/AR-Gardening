@@ -24,6 +24,15 @@ AR Gardening with Unity AR Foundation
 - Realistic rendering of plants for enhanced immersion.
 - Intuitive user interface for seamless navigation and control.
 
+## How to Use
+<p align="center">
+  <video controls width="100%">
+    <source src="./docs/how to use.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+</p>
+
 
 ## Installation
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
