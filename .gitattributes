@@ -1,5 +1,5 @@
 #Build File
-*.apk filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
 
 #3D Object
 *.FBX filter=lfs diff=lfs merge=lfs -text

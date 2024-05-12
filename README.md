@@ -28,7 +28,7 @@ AR Gardening with Unity AR Foundation
 ## Installation
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/rhr18818/AR-Gardening/blob/main/docs/Garden%20Planne1.apk)
+    height="80">](https://github.com/rhr18818/AR-Gardening/releases/download/v-1.00/Garden.Planne1.apk)
 [<img src="./docs/drive_logo.png"
     alt="Get it on Drive"
     height="80">](https://drive.google.com/file/d/1GIS80RqhpccKifLg3499Jt2SV2khNfPh/view?usp=drive_link)
