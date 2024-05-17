@@ -25,7 +25,12 @@ AR Gardening with Unity AR Foundation
 - Intuitive user interface for seamless navigation and control.
 
 
-
+## Demo Video
+<p align="center">
+  <img src="./docs/final_app_use_demo.gif" width="30%" />
+  
+  
+</p>
 
 ## Installation
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
